@@ -1,7 +1,5 @@
 package org.example
 
-package org.example
-
 // Reset
 const val RESET: String = "\u001b[0m" // Text Reset
 

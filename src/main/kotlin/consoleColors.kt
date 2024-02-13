@@ -1,4 +1,4 @@
-package Utilities
+package utilities
 // Reset
 const val RESET: String = "\u001b[0m" // Text Reset
 
